@@ -28,6 +28,7 @@
                 <th>View</th>
                 <th>Delete</th>
                 <th>Update</th>
+                <th>Update</th>
             </tr>
         </thead>
         <tbody>
